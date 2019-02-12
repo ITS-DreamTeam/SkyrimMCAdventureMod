@@ -1,4 +1,4 @@
-# SkyrimMCAdventureMod
+# Skyrim Anceint MC Adventure Mod
 Mod dający możliwość rozegrania dodatowego questa Anciet MC Adventure w grze Skyrim.
 Instalacja: 
 -Odszukać miejsce instalacji gry Skyrim. 
